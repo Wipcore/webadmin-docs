@@ -19,7 +19,7 @@ const Header = () => (
       <Link
         to="/"
       >
-        Acme docs
+        Enova Webadmin Docs
       </Link>
     </h1>
   </HeaderContainer>

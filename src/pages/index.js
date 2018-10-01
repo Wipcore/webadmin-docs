@@ -33,8 +33,8 @@ class IndexPage extends Component {
   render() {
     return (
       <div>
-        <h1>Acme documentation</h1>
-        <p>Welcome to your new documentation site!</p>
+        <h1>Webadmin docs</h1>
+        <p>Welcome to Enova Webadmin Docs</p>
         <CardContainer>
           <Card to="/getting-started">
             Getting started
